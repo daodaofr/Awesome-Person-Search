@@ -43,6 +43,7 @@ Papers in each years are listed as conference first, journal last. Currently, on
 
 #### 2022
 
++ [PSTR] PSTR: End-to-End One-Step Person Search With Transformers (CVPR) [[paper](https://arxiv.org/pdf/2204.03340.pdf)] [[code](https://github.com/JialeCao001/PSTR)]
 + [COAT] Cascade Transformers for End-to-End Person Search (CVPR) [[paper](https://arxiv.org/pdf/2203.09642.pdf)] [[code](https://github.com/Kitware/COAT)]
 + [CGPS] Exploring Visual Context for Weakly Supervised Person Search (AAAI) [[paper](https://arxiv.org/pdf/2106.10506.pdf)] [[code](https://github.com/ljpadam/CGPS)]
 
